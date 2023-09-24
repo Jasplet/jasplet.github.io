@@ -16,6 +16,12 @@ title: CV
 
 - **2017 - 2021**. Demonstrator. University of Bristol. 
 
+## Education
+
+#### **2017 - 2021** PhD (Geology). University of Bristol
+
+#### **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
+
 ### Loading ...
 
 <!-- ## Section
