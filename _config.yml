@@ -12,19 +12,15 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Joseph Asplet
+  email: joseph.asplet@earth.ox.ac.uk
+photo: /assets/jpg/JA_AGU_headshot.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  github: Jasplet
+  orchid: 0000-0002-0375-011X
 
 # build settings
 
