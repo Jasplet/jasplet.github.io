@@ -1,9 +1,9 @@
 # site settings
 
 title: Joseph Asplet
-description: Postodoctoral research in induced seismicity and seismic imaging
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+description: Postdoctoral researcher in induced seismicity and seismic imaging
+taglong: Research Seismologist
+tagshort: Seismologist
 url: https://jasplet.github.io
 baseurl: ""
 permalink: Jasplet
@@ -20,8 +20,12 @@ photo: /assets/jpg/JA_AGU_headshot.jpg
 
 social:
   github: Jasplet
-  orchid: 0000-0002-0375-011X
+  linkedin: Joseph-asplet
+# Academic profile links
 
+academic:
+  orchid: 0000-0002-0375-011X
+  google-scholar: https://scholar.google.com/citations?user=TUbu_1AAAAAJ&hl=en
 # build settings
 
 exclude:
