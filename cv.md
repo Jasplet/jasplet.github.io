@@ -22,9 +22,11 @@ title: CV
 
 - **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
 
-- **2006 - 2013** Victoria College, Jersey. 
+- **2006 - 2013** Victoria College, Jersey.
+ 
 ### Loading ...
 
+A PDF copy of my full CV can be found [here](/Joseph_Asplet_CV.pdf).
 <!-- ## Section
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
