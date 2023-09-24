@@ -7,6 +7,11 @@ title: CV
 
 {% include contact.html %}
 
+## Current Position
+`2023 - present` Research Assistant in Induced Seismicity and Seismic Imaging, University of Oxford. 
+
+
+
 ### Loading ...
 
 <!-- ## Section
