@@ -3,18 +3,16 @@ layout: home
 title: Home
 ---
 
-# Research
+# About
 
-My research interests are in seismology. 
+I am a postdoctoral researcher, who uses seismology to study dynamic Earth processes at a range of scales, both spatial and temporal. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am currently at the University of Oxford, where I am working as part of an [Oxford Martin School AGILE Initiative project](https://www.agile-initiative.ox.ac.uk/sprints/what-do-we-need-to-knre-co2-beneath-our-shelf-seas/) to develop methods to use micro-earthquakes to monitor offshore CO2 storage sites. I am also contributing to the EU ACT project [SHARP](https://www.sharp-storage-act.eu/work-package-2-seismicity/) where we are seeking to use signals from micro-earthquakes to obtain stress orientation and strength in near surface rocks passively (i.e., without having to stress them out further by drilling). Click here](/cv) to see my CV, and [here](/cv.pdf) to download a print version.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+If you cannot find me in the office, you'll probably find me in one of Oxford's many Cafés, Cricket Grounds or in a swimming pool. Outside of work I am currently learning French, and am trying to manage my growing [Warhammer Collection](/)
+
 
 By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
 
-
-
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
 <!-- {% include archive.html %} -->
