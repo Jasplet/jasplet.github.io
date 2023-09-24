@@ -1,13 +1,13 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Joseph Asplet
+description: Postodoctoral research in induced seismicity and seismic imaging
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://jasplet.github.io
 baseurl: ""
-permalink: pretty
-repo: https://github.com/username/username.github.io
+permalink: Jasplet
+repo: https://github.com/Jaspelt/jasplet.github.io
 
 # author settings
 
