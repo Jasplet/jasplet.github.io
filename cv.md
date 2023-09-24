@@ -18,11 +18,11 @@ title: CV
 
 ## Education
 
-#### **2017 - 2021** PhD (Geology). University of Bristol
+- **2017 - 2021** PhD (Geology). University of Bristol
 
-#### **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
+- **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
 
-#### **2006 - 2013** Victoria College, Jersey. 
+- **2006 - 2013** Victoria College, Jersey. 
 ### Loading ...
 
 <!-- ## Section
