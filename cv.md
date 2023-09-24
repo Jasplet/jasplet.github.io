@@ -22,6 +22,7 @@ title: CV
 
 #### **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
 
+#### **2006 - 2013** Victoria College, Jersey. 
 ### Loading ...
 
 <!-- ## Section
