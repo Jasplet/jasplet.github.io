@@ -45,41 +45,41 @@ title: CV
 ## Publications 
 
 **Asplet, J.**, Wookey, J., Kendall, J.M., Chapman, M., and Das, R. 2024 
-Shear-wave attenuation anisotropy: a fluid detection tool, Seismica. [Doi:10.31223/X5838Z](Doi:10.31223/X5838Z)
+Shear-wave attenuation anisotropy: a fluid detection tool, _Seismica_. [Doi:10.31223/X5838Z](Doi:10.31223/X5838Z)
 
-**Asplet, J.**, Kettlety, T., Felgett, M., Luckett, R., Kendall, J. and Kühn, D., 2024, June. Seismic Anisotropy as a Measure of in-Situ Stress for Safe CO2 Storage. In 85th EAGE Annual Conference & Exhibition (including the Workshop Programme). European Association of Geoscientists & Engineers.
+**Asplet, J.**, Kettlety, T., Felgett, M., Luckett, R., Kendall, J. and Kühn, D., 2024, June. Seismic Anisotropy as a Measure of in-Situ Stress for Safe CO2 Storage. _In: 85th EAGE Annual Conference & Exhibition (including the Workshop Programme)_. European Association of Geoscientists & Engineers.
 
-Kettlety, T., **Asplet, J.**, Hudson, T. and Kendall, J.M., 2024, June. Using Array Methods for Cost-Effective Onshore Passive Seismic Monitoring for Offshore CO2 Storage Projects. In 85th EAGE Annual Conference & Exhibition (including the Workshop Programme). European Association of Geoscientists & Engineers.
+Kettlety, T., **Asplet, J.**, Hudson, T. and Kendall, J.M., 2024, June. Using Array Methods for Cost-Effective Onshore Passive Seismic Monitoring for Offshore CO2 Storage Projects. _In: 85th EAGE Annual Conference & Exhibition (including the Workshop Programme)_. European Association of Geoscientists & Engineers.
 
 Hudson, T., **Asplet, J.**, and Walker, A., 2023.,  
-Automated shear-wave splitting analysis for single- and multi-layer anisotropic media. Seismica. [Doi:10.31223/X5R67Z](Doi:10.31223/X5R67Z)
+Automated shear-wave splitting analysis for single- and multi-layer anisotropic media. _Seismica_, [Doi:10.31223/X5R67Z](Doi:10.31223/X5R67Z)
 
-**Asplet, J.**, Wookey, J. & Kendall, M., 2022.,
+**Asplet, J.**, Wookey, J. & Kendall, M., 2022.
 Inversion of shear-wave waveforms reveals deformation in the lowermost mantle. 
-Geophysical Journal International, 232, 97–114. [Doi:10.1093/gji/ggac328](Doi:10.1093/gji/ggac328)
+_Geophysical Journal International_, 232, 97–114. [Doi:10.1093/gji/ggac328](Doi:10.1093/gji/ggac328)
 
-Asplet, J., 2021
+**Asplet, J.**, 2021.
 New techniques for the robust identification and quantification of seismic anisotropy in the lowermost mantle. University of Bristol. [https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7](https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7)
 
 **Asplet, J.**, Wookey, J. & Kendall, M., 2020., 
 A potential post-perovskite province in D’’ beneath the Eastern Pacific: evidence from new analysis of discrepant SKS–SKKS shear-wave splitting.
-Geophysical Journal International, 221, 2075–2090. [Doi:10.1093/gji/ggaa114](Doi:10.1093/gji/ggaa114)
+_Geophysical Journal International_, 221, 2075–2090. [Doi:10.1093/gji/ggaa114](Doi:10.1093/gji/ggaa114)
 
 ## Papers in Preperation
 
-Kettlety, T., Asplet, J., Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, _NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites_
+Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
 
 ## Grey literature.
 
-Asplet, J., Kettlety, T., Felgett, M. and Kendall., J. M., 2024, SHARP Storage Deliverable 2.3: Stress-induced anisotropy, reservoir properties and caprock integrity assessment. 
+**Asplet, J.**, Kettlety, T., Felgett, M. and Kendall., J. M., 2024, SHARP Storage Deliverable 2.3: Stress-induced anisotropy, reservoir properties and caprock integrity assessment. 
 
-Sutton, M., Rufas, A., Asplet, J., Moneron, J., Kallingal, M., Albini, D., Kettlety, T., Muslemani, H., Köppen, M., Cartwright, J., Bouman, H. A., Rickaby, R., Jackson, M., Smith, S. M., Allen, M., and Kendall, J. M., 2024., Filling in evidence gaps for the safe deployment of offshore Geological Carbon Storage. The Agile Initiative, University of Oxford, UK. [doi:10.5287/ora-e9o5oxve8]([doi:10.5287/ora-e9o5oxve8])
+Sutton, M., Rufas, A., **Asplet, J.**, Moneron, J., Kallingal, M., Albini, D., Kettlety, T., Muslemani, H., Köppen, M., Cartwright, J., Bouman, H. A., Rickaby, R., Jackson, M., Smith, S. M., Allen, M., and Kendall, J. M., 2024., Filling in evidence gaps for the safe deployment of offshore Geological Carbon Storage. The Agile Initiative, University of Oxford, UK. [doi:10.5287/ora-e9o5oxve8]([doi:10.5287/ora-e9o5oxve8])
 
-Sutton, M., Rufas, A., Asplet, J., Kallingal, M., Moneron, J., Cartwright, J., Kettlety, T., Kendall, M., Bouman, H., Rickaby, R., Allen, M., & Smith, S., 2024, What do we need to know to safely store CO2 beneath our shelf seas? Stakeholder workshop report. The Agile Initiative.
+Sutton, M., Rufas, A., **Asplet, J.**, Kallingal, M., Moneron, J., Cartwright, J., Kettlety, T., Kendall, M., Bouman, H., Rickaby, R., Allen, M., & Smith, S., 2024, What do we need to know to safely store CO2 beneath our shelf seas? Stakeholder workshop report. The Agile Initiative.
 
 ## Awards
 
-- Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress 
+Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress 
 
 
 
