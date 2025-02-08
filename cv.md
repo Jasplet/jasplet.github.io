@@ -12,35 +12,35 @@ title: CV
 
 ## Academic Employment
 
-- **2021 - 2023**. Research Associate. University of Bristol
+**2021 - 2023**. Research Associate. University of Bristol
 
-- **2017 - 2021**. Demonstrator. University of Bristol. 
+**2017 - 2021**. Demonstrator. University of Bristol. 
 
 ## Education
 
-- **2017 - 2021** PhD (Geology). University of Bristol
+**2017 - 2021** PhD (Geology). University of Bristol
 
-- **2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
+**2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
 
-- **2006 - 2013** Victoria College, Jersey.
+**2006 - 2013** Victoria College, Jersey.
  
 ## Professional Experience
 
-- **August - October**. Data Scientist (Intern). Geollect, Bristol, UK. 
+**August - October 2020**. Data Scientist (Intern). Geollect, Bristol, UK. 
 
 ## Grants awarded
 
-- States of Jersey Postgraduate Bursary (£15,000)
+**2017** States of Jersey Postgraduate Bursary (£15,000)
 
-- **2016** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
+**2016** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-- **2015** Consolidated Minerals Student Bursary (£3000)
+**2015** Consolidated Minerals Student Bursary (£3000)
 
-- **2015** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
+**2015** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-- **2014** University of Southampton School of Ocean and Earth SciencesProgression Scholarship (£500)
+**2014** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-- **2013** University of Southampton Merit Scholarship (£500)
+**2013** University of Southampton Merit Scholarship (£500)
 
 ## Publications 
 
@@ -58,11 +58,16 @@ Automated shear-wave splitting analysis for single- and multi-layer anisotropic 
 Inversion of shear-wave waveforms reveals deformation in the lowermost mantle. 
 Geophysical Journal International, 232, 97–114. [Doi:10.1093/gji/ggac328](Doi:10.1093/gji/ggac328)
 
+Asplet, J., 2021
+New techniques for the robust identification and quantification of seismic anisotropy in the lowermost mantle. University of Bristol. [https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7](https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7)
+
 **Asplet, J.**, Wookey, J. & Kendall, M., 2020., 
 A potential post-perovskite province in D’’ beneath the Eastern Pacific: evidence from new analysis of discrepant SKS–SKKS shear-wave splitting.
 Geophysical Journal International, 221, 2075–2090. [Doi:10.1093/gji/ggaa114](Doi:10.1093/gji/ggaa114)
 
 ## Papers in Preperation
+
+Kettlety, T., Asplet, J., Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, _NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites_
 
 ## Grey literature.
 
@@ -71,10 +76,6 @@ Asplet, J., Kettlety, T., Felgett, M. and Kendall., J. M., 2024, SHARP Storage D
 Sutton, M., Rufas, A., Asplet, J., Moneron, J., Kallingal, M., Albini, D., Kettlety, T., Muslemani, H., Köppen, M., Cartwright, J., Bouman, H. A., Rickaby, R., Jackson, M., Smith, S. M., Allen, M., and Kendall, J. M., 2024., Filling in evidence gaps for the safe deployment of offshore Geological Carbon Storage. The Agile Initiative, University of Oxford, UK. [doi:10.5287/ora-e9o5oxve8]([doi:10.5287/ora-e9o5oxve8])
 
 Sutton, M., Rufas, A., Asplet, J., Kallingal, M., Moneron, J., Cartwright, J., Kettlety, T., Kendall, M., Bouman, H., Rickaby, R., Allen, M., & Smith, S., 2024, What do we need to know to safely store CO2 beneath our shelf seas? Stakeholder workshop report. The Agile Initiative.
-
-Asplet, J., 2021
-New techniques for the robust identification and quantification of seismic anisotropy in the lowermost mantle. University of Bristol. [https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7](https://hdl.handle.net/1983/06dcb896-db47-4052-a40c-77b86fa5eaf7)
-
 
 ## Awards
 
