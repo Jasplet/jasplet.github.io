@@ -65,7 +65,7 @@ New techniques for the robust identification and quantification of seismic aniso
 A potential post-perovskite province in D’’ beneath the Eastern Pacific: evidence from new analysis of discrepant SKS–SKKS shear-wave splitting.
 _Geophysical Journal International_, 221, 2075–2090. [Doi:10.1093/gji/ggaa114](Doi:10.1093/gji/ggaa114)
 
-## Papers in Preperation
+## Publications in preparation
 
 Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
 
