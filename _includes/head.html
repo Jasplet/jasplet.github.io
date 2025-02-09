@@ -9,7 +9,9 @@
     {{ site.title }} &middot; {{ page.title }}
     {% endif %}
   </title>
-
+  {% if page.title == "Home"%}
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% endif %} 
   <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/open-color.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/syntax.css' | relative_url }}">

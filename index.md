@@ -9,7 +9,7 @@ I am a postdoctoral researcher, who uses seismology to study dynamic Earth proce
 
 I am currently at the University of Oxford. I have been working as part of an [Oxford Martin School AGILE Initiative project](https://www.agile-initiative.ox.ac.uk/sprints/what-do-we-need-to-knre-co2-beneath-our-shelf-seas/) to develop methods to use micro-earthquakes to monitor offshore CO2 storage sites. As part of this project I installed an eight element seismic array in North Yorkshire.
 
-![](/assets/jpg/Station_w_scenic_background.jpg)
+<!-- ![](/assets/jpg/Station_w_scenic_background.jpg) -->
 
 
 I also contributed to the EU ACT project [SHARP](https://www.sharp-storage-act.eu/work-package-2-seismicity/) where we are seeking to use signals from micro-earthquakes to obtain stress orientation and magnitude in near surface rocks passively (i.e., without having to stress them out further by drilling).
