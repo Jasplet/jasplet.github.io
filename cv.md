@@ -8,7 +8,8 @@ title: CV
 {% include contact.html %}
 
 ## Current Position
-- **2023 - present**. Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging, University of Oxford. 
+
+**2023 - present**. Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging, University of Oxford. 
 
 ## Academic Employment
 
@@ -42,6 +43,27 @@ title: CV
 
 **2013** University of Southampton Merit Scholarship (£500)
 
+## Awards and Recognition
+
+**2021** Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress
+
+**November 2020**. British Geophysical Association PhD paper of the month for Asplet _et al._, 2020.
+
+## Professional Service and Community Roles
+
+**2025-present**. Postdoc representative 
+
+**2023 - 2027**. Secretary to the International Union of Geodesy and Geophysics (IUGG) UK National Committee (2023-2027).
+
+
+•	Organised University of Bristol geophysics research group’s seminars (2020-2023)
+•	Solid Earth theme representative on the 2020 Wessex Doctoral Training Network (DTN) conference organising committee (a joint meeting between the GW4+, Spitfire and Oxford NERC doctoral training programmes).
+•	Convened the 2019 British Geophysical Association Postgraduate Research in Progress conference.
+•	Organised the 2019 University of Bristol School of Earth Sciences postgraduate seminar series.
+•	Reviewer for journals including: Physics of the Earth and Planetary Interiors, Seismica, Geophysical Journal International, Journal of Volcanology and Geothermal Research, and Geochemistry, Geophysics, Geosystems. 
+•	Member of the American Geophysical Union (AGU) and European Association of Geoscientists and Engineers (EAGE).
+
+
 ## Publications 
 
 **Asplet, J.**, Wookey, J., Kendall, J.M., Chapman, M., and Das, R. 2024 
@@ -69,17 +91,13 @@ _Geophysical Journal International_, 221, 2075–2090. [Doi:10.1093/gji/ggaa114]
 
 Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
 
-## Grey literature.
+## Grey literature
 
 **Asplet, J.**, Kettlety, T., Felgett, M. and Kendall., J. M., 2024, SHARP Storage Deliverable 2.3: Stress-induced anisotropy, reservoir properties and caprock integrity assessment. 
 
 Sutton, M., Rufas, A., **Asplet, J.**, Moneron, J., Kallingal, M., Albini, D., Kettlety, T., Muslemani, H., Köppen, M., Cartwright, J., Bouman, H. A., Rickaby, R., Jackson, M., Smith, S. M., Allen, M., and Kendall, J. M., 2024., Filling in evidence gaps for the safe deployment of offshore Geological Carbon Storage. The Agile Initiative, University of Oxford, UK. [doi:10.5287/ora-e9o5oxve8]([doi:10.5287/ora-e9o5oxve8])
 
 Sutton, M., Rufas, A., **Asplet, J.**, Kallingal, M., Moneron, J., Cartwright, J., Kettlety, T., Kendall, M., Bouman, H., Rickaby, R., Allen, M., & Smith, S., 2024, What do we need to know to safely store CO2 beneath our shelf seas? Stakeholder workshop report. The Agile Initiative.
-
-## Awards
-
-Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress 
 
 
 
