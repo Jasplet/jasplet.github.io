@@ -51,17 +51,26 @@ title: CV
 
 ## Professional Service and Community Roles
 
-**2025-present**. Postdoc representative 
+**2025-present**. Postdoc representative in Department of Earth Sciences. Sit on the research and departmental committees.  
 
 **2023 - 2027**. Secretary to the International Union of Geodesy and Geophysics (IUGG) UK National Committee (2023-2027).
 
+**2020 - present**. Reviewer for journals including: Physics of the Earth and Planetary Interiors, Seismica, Geophysical Journal International, Journal of Volcanology and Geothermal Research, and Geochemistry, Geophysics, Geosystems. 
 
-•	Organised University of Bristol geophysics research group’s seminars (2020-2023)
-•	Solid Earth theme representative on the 2020 Wessex Doctoral Training Network (DTN) conference organising committee (a joint meeting between the GW4+, Spitfire and Oxford NERC doctoral training programmes).
-•	Convened the 2019 British Geophysical Association Postgraduate Research in Progress conference.
-•	Organised the 2019 University of Bristol School of Earth Sciences postgraduate seminar series.
-•	Reviewer for journals including: Physics of the Earth and Planetary Interiors, Seismica, Geophysical Journal International, Journal of Volcanology and Geothermal Research, and Geochemistry, Geophysics, Geosystems. 
-•	Member of the American Geophysical Union (AGU) and European Association of Geoscientists and Engineers (EAGE).
+**2020 - 2023**. Organised University of Bristol geophysics research group’s seminars.
+
+**2020**. Solid Earth theme representative on the 2020 Wessex Doctoral Training Network (DTN) conference organising committee (a joint meeting between the GW4+, Spitfire and Oxford NERC doctoral training programmes).
+
+**2019** Primary convener of the British Geophysical Association Postgraduate Research in Progress conference, Bristol.
+
+**2019** Organised the University of Bristol School of Earth Sciences' postgraduate seminar series.
+
+## Academic Society Memberships 
+
+ - American Geophysical Union (AGU)
+ - European Association of Geoscientists and Engineers (EAGE)
+ - European Geophysical Union (EGU)
+ - [Société Jersiase](https://www.societe.je/)
 
 
 ## Publications 
