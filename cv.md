@@ -9,39 +9,39 @@ title: CV
 
 ## Current Position
 
-**2023 - present**. Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging, University of Oxford. 
+**2023 - present.** Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging, University of Oxford. 
 
 ## Academic Employment
 
-**2021 - 2023**. Research Associate. University of Bristol
+**2021 - 2023.** Research Associate. University of Bristol
 
-**2017 - 2021**. Demonstrator. University of Bristol. 
+**2017 - 2021.** Demonstrator. University of Bristol. 
 
 ## Education
 
-**2017 - 2021** PhD (Geology). University of Bristol
+**2017 - 2021.** PhD (Geology). University of Bristol
 
-**2013 - 2017** MSci Geophysics (with study abroad). University of Southampton
+**2013 - 2017.** MSci Geophysics (with study abroad). University of Southampton
 
-**2006 - 2013** Victoria College, Jersey.
+**2006 - 2013.** Victoria College, Jersey.
  
 ## Professional Experience
 
-**August - October 2020**. Data Scientist (Intern). Geollect, Bristol, UK. 
+**August - October 2020.** Data Scientist (Intern). Geollect, Bristol, UK. 
 
 ## Grants awarded
 
-**2017** States of Jersey Postgraduate Bursary (£15,000)
+**2017.** States of Jersey Postgraduate Bursary (£15,000)
 
-**2016** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
+**2016.** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-**2015** Consolidated Minerals Student Bursary (£3000)
+**2015.** Consolidated Minerals Student Bursary (£3000)
 
-**2015** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
+**2015.** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-**2014** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
+**2014.** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
 
-**2013** University of Southampton Merit Scholarship (£500)
+**2013.** University of Southampton Merit Scholarship (£500)
 
 ## Awards and Recognition
 
