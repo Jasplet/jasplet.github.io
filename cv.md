@@ -51,7 +51,7 @@ title: CV
 
 **November 2020**. British Geophysical Association PhD paper of the month for Asplet _et al._, 2020.
 
-## Professional Service and Community Roles
+## Professional Service and Community Roles
 
 **2025-present**. Postdoc representative in Department of Earth Sciences. Sit on the research and departmental committees.  
 
