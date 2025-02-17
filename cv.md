@@ -67,7 +67,7 @@ title: CV
 
 **2019.** Organised the University of Bristol School of Earth Sciences' postgraduate seminar series.
 
-## Academic Society Memberships 
+## Academic Society Memberships
 
  - American Geophysical Union (AGU)
  - European Association of Geoscientists and Engineers (EAGE)
