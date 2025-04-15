@@ -18,6 +18,8 @@ I am now collaborating with Dr Paula Koelemeijer on a project to detect microsei
 
 [Click here](/cv) to see my CV, and [here](/Joseph_Asplet_CV.pdf) to download a print version, last updated December 2024.
 
+If you have come here from EGU, the references for my poster can be found [here](/posts/2025-04-15-egu-poster-references)
+
 If you cannot find me in the office, you'll probably find me in one of Oxford's many Cafés, Cricket Grounds or in the gym. I currently play for [Oxford and Bletchingdon Nondescripts CC](https://obncc.play-cricket.com/home) and [Isis CC](http://www.isiscc.org.uk/).
 
 Outside of work I am currently learning French, and am trying to manage my growing [Warhammer Collection](_posts/2023-09-23-warhammer_gallery.md).
