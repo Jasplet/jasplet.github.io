@@ -16,7 +16,7 @@ I also contributed to the EU ACT project [SHARP](https://www.sharp-storage-act.e
 
 I am now collaborating with Dr Paula Koelemeijer on a project to detect microseimicity beneath London, and am continuing to work on onshore monitoring of offshore microseismicty and linking seismic anisotorpy to the subsurface stress field.
 
-[Click here](/cv) to see my CV, and [here](/JosephAsplet_academicCV_oct2024.pdf) to download a print version, last updated December 2024.
+[Click here](/cv) to see my CV, and [here](/JosephAsplet_academicCV_apr2025.pdf) to download a print version, last updated December 2024.
 
 If you have come here from EGU, the references for my poster can be found [here](/posts/2025-04-15-egu-poster-references)
 
