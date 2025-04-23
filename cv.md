@@ -111,5 +111,5 @@ Sutton, M., Rufas, A., **Asplet, J.**, Kallingal, M., Moneron, J., Cartwright, J
 
 
 
-A PDF copy of my full CV can be found [here](/JosephAsplet_academicCV_apr25.pdf).
+A PDF copy of my full CV can be found [here](/assets/files/J_Asplet_CV.pdf).
 
