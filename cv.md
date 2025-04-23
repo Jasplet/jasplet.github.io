@@ -23,11 +23,11 @@ title: CV
 
 **2013 - 2017.** MSci Geophysics. University of Southampton, with study abroad at Pennsylvania State University. 1<sup>st</sup> Class Honours.
 
-**2006 - 2013.** Victoria College, Jersey.
+**2006 - 2013.** Victoria College, Jersey. A-levels in Maths (A*), Physics (A*), Chemistry (A) and Further Maths (B).
  
 ## Professional Experience
 
-**June - December 2024.** Consulatant for Offshore CO<sub>2</sub> Storage operator.
+**June - December 2024.** Consultant for Offshore CO<sub>2</sub> Storage operator.
 
 **August - October 2020.** Data Scientist (Intern). Geollect, Bristol, UK. 
 
