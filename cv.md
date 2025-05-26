@@ -53,7 +53,7 @@ title: CV
 
 ## Awards and Recognition
 
-**2025.** Solicited Speaker at EGU 2025. Session GD7.2 Anisotropy from crust to core: Observations, models and implications. Talk title [Shear-wave attenuation anisotropy: a new constraint on mantle melt near the Main Ethiopian Rift](https://meetingorganizer.copernicus.org/EGU25/EGU25-11699.html)
+**2025.** Solicited Speaker at EGU 2025. Session GD7.2 Anisotropy from crust to core: Observations, models and implications. Talk title: [Shear-wave attenuation anisotropy: a new constraint on mantle melt near the Main Ethiopian Rift](https://meetingorganizer.copernicus.org/EGU25/EGU25-11699.html)
 
 **2021.** Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress
 
