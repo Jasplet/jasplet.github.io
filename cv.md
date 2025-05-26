@@ -33,6 +33,12 @@ title: CV
 
 ## Grants awarded
 
+**2025.** Oxford Mathematics, Physics and Life Sciences (MPLS) Lockey Fund award (£500)
+
+**2025.** Oxford Mathematics, Physics and Life Sciences (MPLS) Research Culture award (£500)
+
+**2025.** Oxford Mathematics, Physics and Life Sciences (MPLS) Postdoctoral representative grant (£500)
+
 **2017.** States of Jersey Postgraduate Bursary (£15,000)
 
 **2016.** University of Southampton School of Ocean and Earth Sciences Progression Scholarship (£500)
@@ -47,15 +53,17 @@ title: CV
 
 ## Awards and Recognition
 
-**2021** Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress
+**2025.** Solicited Speaker at EGU 2025. Session GD7.2 Anisotropy from crust to core: Observations, models and implications. Talk title [Shear-wave attenuation anisotropy: a new constraint on mantle melt near the Main Ethiopian Rift](https://meetingorganizer.copernicus.org/EGU25/EGU25-11699.html)
 
-**November 2020**. British Geophysical Association PhD paper of the month for Asplet _et al._, 2020.
+**2021.** Runner-up, Best Talk. British Geophysical Association Postgraduate Research in Progress
+
+**November 2020.** British Geophysical Association PhD paper of the month for Asplet _et al._, 2020.
 
 ## Professional Service and Community Roles
 
-**2025-present**. Postdoc representative in Department of Earth Sciences. Sit on the research and departmental committees.  
+**2025-present.** Postdoc representative in Department of Earth Sciences. Sit on the research and departmental committees.  
 
-**2023 - 2027**. Secretary to the International Union of Geodesy and Geophysics (IUGG) UK National Committee (2023-2027).
+**2023 - 2027.** Secretary to the International Union of Geodesy and Geophysics (IUGG) UK National Committee (2023-2027).
 
 **2020 - present.** Reviewer for journals including: Physics of the Earth and Planetary Interiors, Seismica, Geophysical Journal International, Journal of Volcanology and Geothermal Research, and Geochemistry, Geophysics, Geosystems. 
 
@@ -99,7 +107,17 @@ _Geophysical Journal International_, 221, 2075–2090. [Doi:10.1093/gji/ggaa114]
 
 ## Publications in preparation
 
-Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
+N.B Publications in prep are ordered by the approximate level of "polish" of the current draft manuscript. Dois/ preprints will be added when articles are submitted.
+
+Kühn, D., Kettlety, T., Martuganova, E., Jerkins, A., Dichiarante, A. M., **Asplet, J.**, Baptie, B., Voss, P. H., Dahl-Jensen, T., Goertz-Allmann, T., Schweitzer, J., and Oye, V., Harmonising seismic bulletins around the North Sea: improving natural seismicity characterisation for CO2 storage preparedness, _in prep for Geoenergy_
+
+**Asplet, J.**, Kettlety, T., and Tarasewicz, J., How low can you go? Assessing the earthquake detection capability of seismic arrays in the Southern North Sea, _in prep_. 
+
+Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep for Seismica_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
+
+**Asplet, J.**, Fellgett, M., Kettlety, T., Kendall, J. M., _in prep_, New constrains on UK crustal stress from microseismic
+shear-wave splitting, Geol. Soc. Lon. Special Publication on "Tectonic Stress: from the lithodphere to the wellbore".
+
 
 ## Grey literature
 
