@@ -111,17 +111,15 @@ _Geophysical Journal International_, 221, 2075–2090. [Doi:10.1093/gji/ggaa114]
 
 ## Publications in preparation
 
-N.B Publications in prep are ordered by the approximate level of "polish" of the current draft manuscript. Dois/ preprints will be added when articles are submitted.
+N.B Publications in prep are ordered by the approximate level of "polish" of the current draft manuscript. Dois/ preprints will be added when articles are submitted. Target journals have been added when known.
 
-Kühn, D., Kettlety, T., Martuganova, E., Jerkins, A., Dichiarante, A. M., **Asplet, J.**, Baptie, B., Voss, P. H., Dahl-Jensen, T., Goertz-Allmann, T., Schweitzer, J., and Oye, V., Harmonising seismic bulletins around the North Sea: improving natural seismicity characterisation for CO2 storage preparedness, _in prep for Geoenergy_
+Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites, _Seismica_. 
 
-**Asplet, J.**, Kettlety, T., and Tarasewicz, J., How low can you go? Assessing the earthquake detection capability of seismic arrays in the Southern North Sea, _in prep_. 
+Kühn, D., Kettlety, T., Martuganova, E., Jerkins, A., Dichiarante, A. M., **Asplet, J.**, Baptie, B., Voss, P. H., Dahl-Jensen, T., Goertz-Allmann, T., Schweitzer, J., and Oye, V.,  _in prep_, Harmonising seismic bulletins around the North Sea: improving natural seismicity characterisation for CO2 storage preparedness, _Geoenergy_
 
-Kettlety, T., **Asplet, J.**, Hudson, T., Walker, A., Kounoudis, R., Shams, S., Yemane, T., Butcher, A., and Kendall J. M., _in prep for Seismica_, NYMAR: North York Moors Array for background monitoring for Southern North Sea CO2 storage sites.
+**Asplet, J.**, Kettlety, T., and Tarasewicz, J., _in prep_, How low can you go? Assessing the earthquake detection capability of seismic arrays in the Southern North Sea,  
 
-**Asplet, J.**, Fellgett, M., Kettlety, T., Kendall, J. M., _in prep_, New constrains on UK crustal stress from microseismic
-shear-wave splitting, Geol. Soc. Lon. Special Publication on "Tectonic Stress: from the lithodphere to the wellbore".
-
+Mackay-Champion, T., **Asplet, J.**, Palin, R., Riel, N., Wade, J., Dyck, B., _in prep_, No geophysical requirement for free water in the Martian crust.
 
 ## Grey literature
 
