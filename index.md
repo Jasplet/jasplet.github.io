@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I am a quantitative researcher,
+I'm a quantitative researcher with a background in seismology and an interest in commodity markets, futures and systematic trading.
 
 Prior to entering the world of quantiative finance, I was a research seismologist at the University of Oxford and University of Bristol. I used seismology to study dynamic Earth processes at a range of scales, from the Earth's crust down the the core-mantle boundary.  
 
