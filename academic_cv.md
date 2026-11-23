@@ -1,9 +1,15 @@
 ---
-layout: cv
+layout: academic_cv
 title: CV
 ---
+# Academic Curriculum Vitae
 
-# Curriculum Vitæ
+This page documents my academic research, publications,
+awards and contributions to the scientific community.
+
+For my current professional experience in quantitative
+research and financial markets, please see my
+[professional CV](/cv/).
 
 {% include contact.html %}
 

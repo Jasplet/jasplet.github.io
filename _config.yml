@@ -1,9 +1,9 @@
 # site settings
 
 title: Joseph Asplet
-description: Postdoctoral researcher in induced seismicity and seismic imaging
-taglong: Research Seismologist
-tagshort: Seismologist
+description: Quantitive Researcher | Former Research Seismologist 
+taglong: Quantitive Researcher 
+tagshort: Quant
 url: https://jasplet.github.io
 baseurl: ""
 permalink: Jasplet
@@ -14,7 +14,7 @@ repo: https://github.com/Jaspelt/jasplet.github.io
 author:
   name: Joseph Asplet
   email: joseph.asplet@earth.ox.ac.uk
-photo: /assets/jpg/JA_AGU_headshot.jpg
+photo: /assets/jpg/2026_JA_photo.jpg
 
 # social media links
 
