@@ -1,3 +1,9 @@
+---
+layout: post
+title: EGU Poster References
+lead: References for EGU25 Poster
+---
+
 Ah ha! Now I have tricked you into visiting my website!
 
 These are the papers cited in my poster "Spatiotemporal variations in shear-wave splitting during the 2018-19 Surrey, UK, earthquake sequence.

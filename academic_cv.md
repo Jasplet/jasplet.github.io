@@ -1,5 +1,5 @@
 ---
-layout: academic_cv
+layout: cv
 title: CV
 ---
 # Academic Curriculum Vitae
@@ -13,11 +13,9 @@ research and financial markets, please see my
 
 {% include contact.html %}
 
-## Current Position
-
-**2023 - present.** Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging. University of Oxford. 
-
 ## Academic Employment
+
+**2023 - 2026.** Postdoctoral Research Assistant in Induced Seismicity and Seismic Imaging. University of Oxford. 
 
 **2021 - 2023.** Research Associate. University of Bristol
 
@@ -134,7 +132,6 @@ Mackay-Champion, T., **Asplet, J.**, Palin, R., Riel, N., Wade, J., Dyck, B., _i
 Sutton, M., Rufas, A., **Asplet, J.**, Moneron, J., Kallingal, M., Albini, D., Kettlety, T., Muslemani, H., Köppen, M., Cartwright, J., Bouman, H. A., Rickaby, R., Jackson, M., Smith, S. M., Allen, M., and Kendall, J. M., 2024., Filling in evidence gaps for the safe deployment of offshore Geological Carbon Storage. The Agile Initiative, University of Oxford, UK. [doi:10.5287/ora-e9o5oxve8](https://doi.org/doi:10.5287/ora-e9o5oxve8)
 
 Sutton, M., Rufas, A., **Asplet, J.**, Kallingal, M., Moneron, J., Cartwright, J., Kettlety, T., Kendall, M., Bouman, H., Rickaby, R., Allen, M., & Smith, S., 2024, What do we need to know to safely store CO2 beneath our shelf seas? Stakeholder workshop report. The Agile Initiative.
-
 
 
 A PDF copy of my full CV can be found [here](/assets/files/J_Asplet_CV.pdf).

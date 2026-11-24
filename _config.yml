@@ -3,17 +3,17 @@
 title: Joseph Asplet
 description: Quantitive Researcher | Former Research Seismologist 
 taglong: Quantitive Researcher 
-tagshort: Quant
+tagshort: Quant Researcher
 url: https://jasplet.github.io
 baseurl: ""
-permalink: Jasplet
+permalink: /:title/
 repo: https://github.com/Jaspelt/jasplet.github.io
 
 # author settings
 
 author:
   name: Joseph Asplet
-  email: joseph.asplet@earth.ox.ac.uk
+  email: joseph.asplet@outlook.com
 photo: /assets/jpg/2026_JA_photo.jpg
 
 # social media links
